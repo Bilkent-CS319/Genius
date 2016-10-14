@@ -1,0 +1,114 @@
+5.2 Use Case Model
+Use Case Descriptions
+---------------------
+---------------------
+Use Case 1
+Name: Launch Program
+Participating Actors: User
+
+Main Flow of events:
+• User opens the launching options by selecting "Launch Program" option.
+• System asks the user to enter the name of the desired program to launch.
+• User enters the name of the desired program to launch.
+• System launches the desired program since its already installed on the computer.
+
+Entry Condition: User should start the application, press the "Launch Program" button, and enter a valid program name.
+Exit Condition: The desired program is launched successfully.
+
+Alternative Flow of Events:
+• User enters the name of the desired program to launch but since it is not a valid name( i.e misspelling the name, entering a program that is not installed on the computer), an error message is displayed and user is asked to enter a valid name.
+• User enters a valid name but since the desired program is not able to launch, an error message is displayed and user is asked to enter the name of the desired program to launch.
+• User decides to not launch a program and presses the "Back" button to return to the main menu.
+---------------------
+Use Case 2
+Name: Close Program
+Participating Actors: User
+
+Main Flow of Events:
+• User opens the closing options by selecting "Close Program" option.
+• System asks the user to enter the name of the desired program to close.
+• User enters the name of the desired program to close.
+• System closes the desired program since its already running on the computer.
+
+Entry Condition: User should start the application, press the "Close Program" button, and enter a valid program name.
+Exit Condition: The desired program is closed successfully.
+
+Alternative Flow of Events:
+• User enters the name of the desired program to close but since it is not a valid name( i.e misspelling the name, entering a program that is not running on the computer), an error message is displayed and user is asked to enter a valid name.
+• User enters a valid name but since the desired program is not able to close, an error message is displayed and user is asked to enter the name of the desired program to close.
+• User decides to not close a program and presses the "Back" button to return to the main menu.
+---------------------
+Use Case 3
+Name: Search Google
+Participating Actors: User
+
+Main Flow of Events:
+• User opens the search options by selecting "Search Google" option.
+• System asks the user to enter the desired string to search.
+• User enters the desired string to search.
+• System launches the default browser and performs a Google search on the desired string.
+
+Entry Condition: User should start the application, press the "Search Google" button, and enter a string to search.
+Exit Condition: The default browser launched successfully, and the Google search for the desired string is done successfully.
+
+Alternative Flow of Events:
+• User enters the name of the desired string to search but since the default browser is not able to launch, an error message is displayed and system returns to main menu.
+• User decides to not perform a search on Google and presses the "Back" button to return to the main menu.
+---------------------
+Use Case 4
+Name: Search Wikipedia
+Participating Actors: User
+
+Main Flow of Events:
+• User opens the search options by selecting "Search Wikipedia" option.
+• System asks the user to enter the desired string to search.
+• User enters the desired string to search.
+• System performs a Wikipedia search and displays the result on screen.
+
+Entry Condition: User should start the application, press the "Search Wikipedia" button, and enter a string to search.
+Exit Condition: The Wikipedia search for the desired string is done successfully, and user pressed the "Back" button.
+
+Alternative Flow of Events:
+• User decides to not perform a search on Wikipedia and presses the "Back" button to return to the main menu.
+---------------------
+Use Case 5
+Name: Options
+Participating Actors: User
+
+Main Flow of Events:
+• User opens the options panel by selecting "Options" option.
+• System displays the options panel on the screen.
+• User changes the default browser by selecting the directory of the desired browser.
+• System saves the settings.
+• User returns to the main menu by pressing the "Back" button.
+
+Entry Condition: User should start the application, and press the "Options" button.
+Exit Condition: User presses the "Back" button.
+
+Alternative Flow of Events:
+• User decides to not change the default browser and presses the "Back" button.
+---------------------
+Use Case 6
+Name: Help
+Participating Actors: User
+
+Main Flow of Events:
+• User opens the help panel by selecting "Help" option.
+• System displays information about usage of the launcher, closer, and searching.
+• User presses the "Back" button to return to main menu.
+
+Entry Condition: User should start the application, and press the "Help" button.
+Exit Condition: User presses the "Back" button.
+-----------------
+Use Case 7
+Name: View Credits
+Participating Actors: User
+
+Main Flow of Events:
+• User opens the credits panel by selecting "Credits" option.
+• System displays the version information of the program, and the names and e-mail addresses of the developers.
+• User presses the "Back" button to return to main menu.
+
+Entry Condition: User should start the application, and press the "Credits" button.
+Exit Condition: User presses the "Back" button.
+---------------------
