@@ -1,0 +1,14 @@
+Scenario 1 : Launch Program Case One
+Kadri wants to open an application on his computer with using Genuis Assistant. Because Kadri have no idea about how Genius works, he first drag his mouse and clicks "Help" option. System prompts text which explains how Genius works. After reading instructions, Kadri presses to Back button and comes to menu. Then Kadri drags his mouse to the "Launch Program" option in order to open launch options. System asks Kadri to enter the name of the desired program to launch. Kadri types "Microsoft Word" to launch Microsft Word. Because Microsft Word was already registered in personal computer, Genius launchs Microsoft Word immediately. 
+--------------------------
+Scenario 2 : Launch Program Case Two
+Yasin wants to open an application on his computer with using Genuis Assistant. Since Yasin already know how Genius works, he simply drags his mouse to the "Launch Program" option in order to open launch options. System asks Yasin to enter the name of the desired program to launch. Yasin types "Whatsapp" to launch Whatsapp. But Whatsapp is not installed on Yasin's personal computer, therefore Genuis prompts a text which says desired application is not installed on computer hence Genius failed to start it.
+----------------------------
+Scenario 3 : Close Program 
+Oktay was done with his coding in Visual Studio. He knows some programs quite problematic to close. So he clicks Genius Assistant to close application. He drags his mouse on to the "Close Program" option in order to close program safely. System asks Oktay to enter the name of the program he wants to close. Oktay enters "Visual Studio". Genius stops execution of Visual Studio immediately. 
+--------------------------
+Scenario 4 : Search Google
+Ahmet wants to search visual information about engines in Internet. Because he is also busy with something else, he don't want to spend time on going through all searching process, therefore, Ahmet drags his mouse and clicks to the "Google Search" in Genius's menu. Then system asks Ahmet the name of the desired object he want to search. Ahmet enters "Engines" and Genius launches default browser with result page with object searched in Google already.
+--------------------------
+Scenario 5 : Search Wikipedia
+Mehmet wants to know more about Pluto. Because he already knows about how Genius works, he simlpy clicks "Search Wikipedia" option on the Genius's menu. Then, system asks to the Mehmet what he want to know more about and he enters "Pluto". In less than a second, information about Pluto appears in the Genius's user interface screen. 
