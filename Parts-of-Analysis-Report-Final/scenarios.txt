@@ -1,0 +1,14 @@
+Scenario 1 : Launch Program Case One
+Kadri wants to open an application on his computer with using Genuis Assistant. Because Kadri have no idea about how Genius works, clicks "Help" icon at the top of the main page. System shows a text which explains how Genius works. After reading instructions, Kadri presses to “Help” button again or presses anywhere in the application which directs to main page. Then Kadri writes “Open Microsoft Word” to open the program, the application launches that, if there is no program installed on the PC, then Genius informs about the condition.
+--------------------------
+
+Scenario 2 : Close Program 
+Oktay was done with his coding in Visual Studio. He was doing some other job on his PC besides coding. While he was doing another job, he wants to close his previous program. In this case, he does not have to go back to previous program and close it, but he just opens Genius Assistant, and writes “Close Visual Studio”, it is that simple. Genius Assistant program made Oktay’s life easier, because the application terminates the entered program by itself.
+--------------------------
+
+Scenario 3 : Search with Google
+Ahmet wants to search visual information about engines on Internet. Because he is also busy with something else, he don't want to spend time on going through all searching process, therefore, Ahmet just needs to enter a text that he wants to search for. If the application is even closed, it is a matter of milli seconds to launch the Genius Assistant. Entering the “search engines” in the textfield, he clicks to the “send” button, or clicks the “Enter” button on the keyboard, and the Assistant shows options where to search the entered from: Google, Bing, Wikipedia or Yandex. If Ahmet wants to search about engines on Google, he types “Google”, then Genius Assistant opens default browser with search results page opened.
+--------------------------
+
+Scenario 4 : Search Wikipedia
+Mehmet wants to know more about Pluto. Because he already knows about how Genius works, he simlpy types "Search Pluto” in the textfield on the main page. Then, the application asks which search engine Mehmet wants to use. He thinks that the Wikipedia is the best option, so he types “Wikipedia” when Genius Assistant shows the search options. In less than a second, information about Pluto appears in the default browser’s page. In case, there is no information about Pluto in Wikipedia, then application informs about the case, and asks again if he wants to look for Pluto on the other search engines providing searching options.
