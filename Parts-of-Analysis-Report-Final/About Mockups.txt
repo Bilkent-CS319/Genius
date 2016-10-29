@@ -1,0 +1,8 @@
+Main
+In this mockup, Genius' main window can be seen. When user types something it shows in Chat Log area. User can type his/her command to input area at the below of Chat Log area. User can also click Cog icon to see settings or to question mark icon to go help section or simlpy click to cross icon to shutdown Genius.
+
+Settings
+In this mockup, Genius' settings can be seen. User can preset where Genius going to search input in. It can be either in Search Engine or in Wikipedia. User also can change default search engine if he/she don't want to use Google or vice versa. User can set whether Genius to open at startup or not. User also can change the default setting for Automatic update check. If user installed a new application recently, he/she can click last "Check Installed New Applications" button in order to add them to the list.
+
+Help
+In this mockup, Genius' help section can be seen. In here, user can learn more about Genius. In first line, version of Genius can be seen. There also a credits section at the end where user can see the developers of the Genius. Help section is also useful for user to learn proper commands in order to use Genius more efficient.
