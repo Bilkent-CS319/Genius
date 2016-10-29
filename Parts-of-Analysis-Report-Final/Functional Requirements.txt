@@ -1,0 +1,13 @@
+Functional Requirements
+
+Launch Program: The user will be able to launch a program by commanding it and giving the name of the application to launch via text-input. If the application is already installed on the computer, then the system will launch the application for the user.
+
+Close Program: The user will be able to close an application by commanding it and giving the name of the application to close via text-input. If the application is already running on the computer, then the system will close the application for the user.
+
+Search: The user will be able to perform search on the web by commanding it and giving the desired phrase to search via text-input. The user should indicate where to search if 'search in one place' check is not marked. If user inputs Google, then the system will perform a Google search and displays the result on browser. If user inputs Wikipedia then the system will perform a Wikipedia search and displays the results on an additional information window. If wikipedia search cannot be performed for a reason, the system will ask the user if she/he wants the system to perform a Google search on the desired phrase.
+
+Settings: Settings will be reacheble from the Settings button in the main window. The user can set a default search destination, change the default browser.
+
+Help: Help will be reacheble from the Help button in the main window. Help will provide information about the current version, developers, main purpose of the program, services provided, usage of the services, and command list.
+
+Make Small Talk: User will be able to get a response on basic daily talking sentences by giving the sentence via text-input. System will try and find an appropriate response and displays it to user via main window text field. If the system cannot find an appropriate response, it will display an error message indicating that the input is not understood.
