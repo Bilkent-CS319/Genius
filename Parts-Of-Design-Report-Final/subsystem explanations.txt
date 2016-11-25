@@ -1,0 +1,8 @@
+3.2: View Subsystem
+View subsystem holds the graphical interface objects of our system. Its main purpose is to communicate with the user with different layers of screens. Other than managing these layers according to user selections, it also communicates with the Control subsystem via Interface Manager.
+
+3.3: Control Subsystem
+Control subsystem holds the control objects of our system. Its main purpose is to control the system dynamics according to user inputs. Other than managing the model objects, it also provides an appropriate response to user both according to user inputs and to inform the user about system. Model subsystem and View subsystem are communicated and manipulated via Dispatcher. Dispatcher creates, holds, manipulates, and destoys the model objects.
+
+3.4: Model Subsystem
+Model subsystem holds the domain specific objects of our system. Our model objects inherits from a base class, called Job Object. Job Object class holds the information necessary for the Control subsystem to easily control the model objects. Control subsystem is communicated via Job Object.
