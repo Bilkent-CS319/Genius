@@ -274,7 +274,6 @@ namespace CS319_Genius
 
         private bool smallTalk(string input)
         {
-            response = "";
             return false;
         }
 
