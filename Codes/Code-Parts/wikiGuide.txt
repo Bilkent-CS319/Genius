@@ -1,0 +1,12 @@
+
+
+// Kod bu şekilde. Sen elbette bunu daha iyi bir şekilde ayarlamalısın.
+
+var json = new WebClient().DownloadString("https://en.wikipedia.org/w/api.php?action=opensearch&search="+ strs[2]+ "&limit=1&format=json");
+dynamic dynObj = JsonConvert.DeserializeObject(json);
+String resStr = dynObj[2].ToString();
+
+if (resStr.Length > 3)
+	responseFrombrain(resStr.Substring(6, resStr.Length - 10));
+else
+	responseFrombrain("Who knows...");
