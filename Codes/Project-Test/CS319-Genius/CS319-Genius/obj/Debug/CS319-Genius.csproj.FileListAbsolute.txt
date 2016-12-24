@@ -1,0 +1,16 @@
+c:\users\dell-pc\documents\visual studio 2015\Projects\CS319-Genius\CS319-Genius\bin\Debug\CS319-Genius.exe.config
+c:\users\dell-pc\documents\visual studio 2015\Projects\CS319-Genius\CS319-Genius\bin\Debug\CS319-Genius.exe
+c:\users\dell-pc\documents\visual studio 2015\Projects\CS319-Genius\CS319-Genius\bin\Debug\CS319-Genius.pdb
+c:\users\dell-pc\documents\visual studio 2015\Projects\CS319-Genius\CS319-Genius\obj\Debug\CS319-Genius.csprojResolveAssemblyReference.cache
+c:\users\dell-pc\documents\visual studio 2015\Projects\CS319-Genius\CS319-Genius\obj\Debug\CS319_Genius.Properties.Resources.resources
+c:\users\dell-pc\documents\visual studio 2015\Projects\CS319-Genius\CS319-Genius\obj\Debug\CS319-Genius.csproj.GenerateResource.Cache
+c:\users\dell-pc\documents\visual studio 2015\Projects\CS319-Genius\CS319-Genius\obj\Debug\CS319-Genius.exe
+c:\users\dell-pc\documents\visual studio 2015\Projects\CS319-Genius\CS319-Genius\obj\Debug\CS319-Genius.pdb
+C:\Users\Dell-PC\documents\visual studio 2015\Projects\CS319-Genius\CS319-Genius\obj\Debug\CS319_Genius.OptionsLayerForm.resources
+C:\Users\Dell-PC\documents\visual studio 2015\Projects\CS319-Genius\CS319-Genius\obj\Debug\CS319_Genius.HelpLayerForm.resources
+C:\Users\Dell-PC\documents\visual studio 2015\Projects\CS319-Genius\CS319-Genius\bin\Debug\MetroFramework.dll
+C:\Users\Dell-PC\documents\visual studio 2015\Projects\CS319-Genius\CS319-Genius\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Dell-PC\documents\visual studio 2015\Projects\CS319-Genius\CS319-Genius\obj\Debug\CS319_Genius.InterfaceManager.resources
+C:\Users\Dell-PC\documents\visual studio 2015\Projects\CS319-Genius\CS319-Genius\bin\Debug\responder.txt
+C:\Users\Dell-PC\documents\visual studio 2015\Projects\CS319-Genius\CS319-Genius\obj\Debug\Interop.Shell32.dll
+C:\Users\Dell-PC\documents\visual studio 2015\Projects\CS319-Genius\CS319-Genius\obj\Debug\CS319-Genius.csproj.ResolveComReference.cache

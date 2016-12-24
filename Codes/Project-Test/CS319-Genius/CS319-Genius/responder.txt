@@ -1,0 +1,13 @@
+﻿4
+Opening
+Closing
+Searching Google for
+Searching Wikipedia for
+4
+Something went wrong while trying to open
+Something went wrong while trying to close
+Something went wrong while trying to search Google for
+Something went wrong while trying to search Wikipedia for
+2
+Irrelevant information. Please refer to Help section.
+Insufficient information. Please refer to Help section.
